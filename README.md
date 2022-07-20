@@ -1,2 +1,3 @@
 # SINOKEN
-Webgis Pendidikan dan Kesehatan Kabupaten Lanny Jaya
+
+SiNOKEN (Sistem informasi Pendidikan dan Kesehatan) Webgis Pendidikan dan Kesehatan Kabupaten Lanny Jaya
